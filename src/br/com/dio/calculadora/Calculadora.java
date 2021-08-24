@@ -11,7 +11,7 @@ public class Calculadora {
 		
 		System.out.println("A: ");
 		a = scan.nextInt();
-		System.out.println("B: ");
+		System.out.println("B:  ");
 		b = scan.nextInt();
 		
 		int soma = soma(a,b);
